@@ -1,7 +1,7 @@
 # Jhonatan da Silva Batista
 
 ## Descrição- **Idade:** 25 anos- **Estado civil:** Casado- **Nacionalidade:** Brasileiro- **Endereço:** Rua João Lanhoso n241 - São João Clímaco - São Paulo - Brasil
-- **Complemento:** Condomínio 01 - Bloco 02 - Apartamento 44- **Telefone Celular:** (11) 99213-9282- **Email:** talkto@jhonatansilva.com- **LinkedIn:** br.linkedin.com/in/jhonatansilva
+- **Complemento:** Condomínio 01 - Bloco 02 - Apartamento 44- **Telefone Celular:** (11) 99213-9282- **Email:** [talkto@jhonatansilva.com](mailto:talkto@jhonatansilva.com)- **LinkedIn:** [br.linkedin.com/in/jhonatansilva](http://br.linkedin.com/in/jhonatansilva)
 ## ResumoAtuo no desenvolvimento Front-End desde 2011, implementando diversos tipos de sites, de simples a complexos, variando de Hotsites, SPA e WebApps, para grandes e pequenas marcas.
 Sou formado em Análise e Desenvolvimento de Sistemas na FIAP, gosto de estar sempre atualizado, lendo livros e artigos, estudar novas tecnologias e entender o funcionamento das coisas.
 Procuro estar sempre atento aos detalhes, cumprir prazos a risca, negociar tarefas, tudo para um desenvolvimento ágil e inteligente, pensando sempre no produto final.
