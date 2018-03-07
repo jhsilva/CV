@@ -1,53 +1,280 @@
-# Jhonatan da Silva Batista
+# Sobre
 
-## Descrição- **Idade:** 25 anos- **Estado civil:** Casado- **Nacionalidade:** Brasileiro- **Endereço:** Rua João Lanhoso n241 - São João Clímaco - São Paulo - Brasil
-- **Complemento:** Condomínio 01 - Bloco 02 - Apartamento 44- **Telefone Celular:** (11) 99213-9282- **Email:** [talkto@jhonatansilva.com](mailto:talkto@jhonatansilva.com)- **LinkedIn:** [br.linkedin.com/in/jhonatansilva](http://br.linkedin.com/in/jhonatansilva)
-## ResumoAtuo no desenvolvimento Front-End desde 2011, implementando diversos tipos de sites, de simples a complexos, variando de Hotsites, SPA e WebApps, para grandes e pequenas marcas.
-Sou formado em Análise e Desenvolvimento de Sistemas na FIAP, gosto de estar sempre atualizado, lendo livros e artigos, estudar novas tecnologias e entender o funcionamento das coisas.
-Procuro estar sempre atento aos detalhes, cumprir prazos a risca, negociar tarefas, tudo para um desenvolvimento ágil e inteligente, pensando sempre no produto final.
-## Formação Acadêmica- **Ensino Superior:** Completo- **Instituição:** FIAP- **Curso:** Análise e Desenvolvimento de Sistemas
-- **Ano de conclusão:** 2014
-## Experiência
+### Profissão:
+Comecei a estudar programação com o propósito de aprender algo divertido, tive meu primeiro computador um pouco tarde do que o comum das pessoas na área de TI, aos 17 anos quando minha mãe foi dispensada de seu emprego, ganhei meu primeiro PC, em poucas semanas tive que pedir ajuda do meu vizinho, “Allan", para formata-lo, pouco tempo depois entrei em um curso no SENAI para aprender “Montagem e Manutenção de Micro Computadores”, com o meu primeiro emprego assalariado sendo “Auxiliar Administrativo" consegui ingressar em uma escola técnica o DRC para estudar de fato programação, depois de alguns meses consegui meu primeiro emprego na área de TI na empresa “ViajaNet”, depois dessa primeira experiência passei por diversos tipos de empresas na área de TI (E-commerce's, Agência's, Consultoria's, StartUps…) sempre desempenhando a função de Front-End, segui um conselho desde o princípio da minha carreira que é ser bom em algo específico e ter um conhecimento diversificado, o que me satisfaz no mundo Front-End independente do segmento do produto a ser desenvolvido é ter a chance de organizar a informação trazendo acessibilidade digital e modernizando qualquer que seja o fluxo já existente.
 
-#### Tuneduc - Soluções em Big-Data para instituições de ensino
-- **Período:** agosto de 2016 - atual
-- **Posição:** Desenvolvedor Front-End.
-- **Atuação:** Desenvolvimento Front-End dos produtos Tuneduc, para instituições de ensino.
-#### S2IT - Consultoria de TI- **Período:** agosto de 2015 - abril de 2016 (9 meses)- **Posição:** Analista Front-End.- **Atuação:** Desenvolvimento Front-End do produto Lista de Desejos no walmart.com, participando de reuniões utilizando a metodologia SCRUM para definir as funcionalidades, fluxos e arquitetura do produto, implementando tecnologias variadas, como: AngularJS, React, Flux, Alt, Karma, Jasmine, Mocha, Chai, Webpack, Grunt, SASS, Dust e npm, criando documentações no confluence e realizando code-review de cada funcionalidade implementada, visando qualidade de código.#### Fillet - Agência & Produtora Digital- **Período:** novembro de 2014 - julho de 2015 (10 meses)- **Posição:** Desenvolvedor Front-End.- **Atuação:** Pensando sempre em performance e modularidade, utilizando uma arquitetura Front-End que se adapte a diferentes tipos de projetos, utilizando as ferramentas da atualidade para um desenvolvimento ágil.Construindo CMS e ADMIN com PHP utilizando um framework proprietário da Fillet, arquitetura que se assemelha muito com o framework Rails do Ruby, focado em agilidade e no conceito "DRY - Don't Repeat Yourself”.#### Wunderman - Agência de Propaganda- **Período:** maio de 2014 - outubro de 2014 (6 meses)- **Posição:** Desenvolvedor Front-End.- **Atuação:** Pioneiro na reestruturação técnica da equipe Front-End, implementando tecnologias como: - Sass com Compass, para uma melhor modularidade e agilidade no desenvolvimento do CSS. - Javascript Modular para um melhor reaproveitamento de código e separação de components. - AngularJS para agilidade e segurança em projetos "SPA - Single Page Application". - Ferramenta de build como o Grunt para automatizar e otimizar tarefas. - Arquitetura Front-End para projetos de larga e pequena escala.#### Fillet - Agência & Produtora digital.- **Período:** julho de 2012 - maio de 2014 (1 ano e 11 meses)- **Posição:** Desenvolvedor Front-End.- **Atuação:** Desenvolvimento inteligente utilizando as melhores práticas da atualidade sobre desenvolvimento Front-End, implementando sites e hotsites para grandes marcas como: (Skol, Jack Daniel`s, Nissin, Honda, Intimus, Nestle, Fila, KissFM, Allianz, HDI, Luigi Bertolli, Asus, Renault, SlowCow).#### ViajaNet - E-commerce de Passagens Aéreas- **Período:** o utubro de 2011 - junho de 2012. (9 meses)- **Posição:** Desenvolvedor Front-End.- **Função:** Desenvolvimento Front-End do site principal e de parceiros como: SaraivaViagens, YahooViagens e ComprafacilViagem.
+### Curto Prazo:
+Sempre que aceito um novo desafio procuro entender quais são os pontos que podem ser melhorados de imediato e quais serão os futuros, ter noção dos conhecimentos que serão adquiridos e mapear os possíveis pontos de distração. Procuro ser criativo a todo instante afinal pensar sobre os desafios é a melhor forma de criar soluções.
 
-## Cursos```Instituição: DRCTreinamento: PHP MySQL
-Período: abril de 2012 - maio de 2012
-Carga Horária: 40 horas
-```
+### Longo Prazo:
+Conseguir olhar para trás e visualizar que todo esse trajeto percorrido desfrutou bons resultados e que problemas enfrentados gerou conhecimento é muito gratificante, aprender com os erros é inevitável, mas com os erros dos outros não tem preço, pois sempre existirá alguém que buscou o mesmo objetivo.
 
-```
-Instituição: DRC
-Treinamento: HTML5, CSS3
-Período: março de 2012 - abril de 2012
-Carga Horária: 40 horas``````Instituição: DRCTreinamento: AjaxPeríodo: maio de 2012 - maio de 2012
-Carga Horária: 20 horas``````Instituição: DRC
-Treinamento: Javascript e jQuery
-Período: abril de 2012 - abril de 2012
-Carga Horária: 40 horas``````Instituição: DRCTreinamento: Design para Web
-Período: outubro de 2011 - dezembro de 2011
-Carga Horária: 40 horas``````Instituição: DRCTreinamento: Flash AS3Período: agosto de 2011 - setembro de 2011
-Carga Horária: 40 horas``````Instituição: DRCTreinamento: FlashPeríodo: julho de 2011 - agosto de 2011
-Carga Horária: 40 horas``````Instituição: DRCTreinamento: Lógica de programação
-Período: junho de 2011 - junho de 2011
-Carga Horária: 20 horas
-```
+### Motivação:
+- Organização
+- Valorização
 
-```
-Instituição: DRC
-Treinamento: Dreamweaver
-Período: maio de 2011 - junho de 2011
-Carga Horária: 20 horas
-```
+### Desmotivação:
+- Desorganização
+- Falta de respeito
 
-```Instituição: DRC
-Treinamento: XHTML, CSS e Tableless
-Período: abril de 2011 - maio de 2011
-Carga Horária: 40 horas``````Instituição: SENAICurso: Hardware - Montagem, Manutenção e Configuração de Microcomputadores.
-Período: março de 2009 - junho de 2009Carga Horária: 80 horas
-```
-## Competências- HTML- CSS, SASS- Javascript, ES6- FrameworksJS (React, AngularJS)- TaskRunner (Grunt, Gulp)- Modules (Webpack, Browserify)- ServerSide (Ruby, Nodejs) - Básico- Tests: TDD, BDD, e2e- CrossBrowser- GIT## Idiomas- **Idioma:** Inglês- **Nível:** Básico
+### Valores:
+- Aprendizagem constante faz parte da vida.
+- Errar é humano.
+- Humildade não é você pensar menos de si, é você pensar menos em si.
+
+### Passatempo:
+- Filmes, Animes, Series.
+- Musicas.
+- Leitura (Programação, Literatura Infantil).
+- Jogos Eletrónicos (Qualquer Jogo).
+- Dança (Qualquer rítimo o que importa é se sentir livre).
+
+# Experiência
+
+## Tuneduc | 04/2017 - 11/2017
+
+### Segmento da Empresa:
+Educação
+
+### Cargo:
+Coordenador Front-End
+
+### Descrição:
+Contribuir com a organização do time Front-End, escolhendo novas tecnologias, definindo novas funcionalidades, qualidade de código e alinhamentos com o CTO, Coordenador de Produtos e Diretoria.
+
+### Tarefas:
+- Planejamento (Scrum)
+- Arquitetura Front-End
+
+## Tuneduc | 08/2016 - 04/2017
+
+### Segmento da Empresa:
+Educação
+
+### Cargo:
+Engenheiro Front-End
+
+### Descrição:
+Desenvolvimento de Dashboards para análise de dados educacionais, contendo gráficos variados, utilizando HighCharts para gráficos simples e D3JS para complexos, alto consumo de API’s via tokenization, criação de simuladores para indicadores educacionais e contribuição no desenvolvimento do APP “QueroMinhaNota” voltado para o ENEM disponível nas plataformas IOS e Android desenvolvido com IonicJS. O deploy dos SPA’s são automatizados no CI para o AWS-S3.
+
+### Tarefas:
+- Planejamento (Scrum)
+- Desenvolvimento de SPA's
+- CodeReview
+- Responsive
+- CrossBrowser (BrowserStack)
+
+### Tecnologias:
+- HTML
+- CSS, PostCSS
+- Javascript, ES6, React + Redux, Ionic, AngularJS 2, TypeScript, HighCharts, D3JS
+- PouchDB
+- AWS (S3, CloudFront, Route53)
+- NPM
+- Webpack
+- TDD
+
+### Ferramentas:
+- Atom (codificação)
+- Sketch (recorte de layout)
+- Invision (prototype, versionamento)
+- Bitbucket, Gitlab (versionamento de código)
+- Jira, Gitlab (gerenciamento de projeto)
+
+## Walmart.com | 08/2015 - 04/2016
+
+### Segmento da Empresa:
+E-Commerce de varejo
+
+### Cargo:
+Analista Front-End
+
+### Descrição:
+Desenvolvimento e Planejamento do produto WishList, participando da construção arquitetônica do Front-End, foco em pixel-perfect, tratamento de erros no consumo de API’s, automatização no build das tarefas e deploy automatizado via GIT.
+
+### Tarefas:
+- Planejamento (Scrum)
+- Desenvolvimento do produto "WishList" (SPA)
+- CodeReview
+- Track Analytics (BI)
+- Responsive
+- CrossBrowser
+
+### Tecnologias:
+- HTML
+- CSS, SASS
+- Javascript, AngularJS, React + Flux
+- NPM
+- Webpack
+- TDD
+
+### Ferramentas:
+- SublimeText (codificação)
+- Sketch (recorte de layout)
+- Gitlab (versionamento de código)
+- Jira (gerenciamento de projeto)
+- Confluence (documentação)
+
+## Fillet | 11/2014 - 08/2015
+
+### Segmento da Empresa:
+Agência e Produtora Digital
+
+### Cargo:
+Desenvolvedor Front-End
+
+### Descrição:
+Desenvolvimento e Planejamento de WebSites para campanhas de grandes marcas, como (Skol, KissFM, Allianz, HDI)
+
+### Tarefas:
+- Planejamento das tarefas (Kanban)
+- Desenvolvimento de Sistemas de Admin
+- Desenvolvimento de Produtos (SPA)
+- Desenvolvimento de HotSites
+
+### Tecnologias:
+- HTML5
+- SASS
+- Javascript, jQuery, AngularJS
+- Grunt
+- Bower
+- Ruby on Rails, PHP
+
+### Ferramentas:
+- SublimeText (codificação)
+- Photoshop (recorte de layout)
+- CodeBase (versionamento de código)
+- BaseCamp GIT (gerenciamento de projeto)
+
+## Wunderman | 05/2014 - 10/2014
+
+### Segmento da Empresa:
+Agência de Propaganda e Publicidade
+
+### Cargo:
+Desenvolvedor Front-End
+
+### Descrição:
+Desenvolvimento e Planejamento de SPA's Responsivos e HotSites, configuração dinâmica em arquivos JSON e foco em cumprir prazos curtos. Contribuir com a evolução do time Front-End nas novas tecnologias de época.
+
+### Tarefas:
+- Planejamento das tarefas (Kanban)
+- Desenvolvimento de Produtos (SPA)
+- Desenvolvimento de HotSites
+- Desenvolvimento de email marketing
+- CrossBrowser (Navegadores e Dispositivos móveis)
+
+### Tecnologias:
+- HTML, HTML5
+- CSS, CSS3, SASS
+- Javascript, jQuery, AngularJS, GreenSock
+- Grunt
+- Bower
+
+### Ferramentas:
+- SublimeText (codificação)
+- Photoshop (recorte de layout)
+- SVN
+- BaseCamp (gerenciamento de projeto)
+- FileZilla (FTP)
+
+## Fillet | 07/2012 - 05/2014
+
+### Segmento da Empresa:
+Agência e Produtora Digital
+
+### Cargo:
+Desenvolvedor Front-End
+
+### Descrição:
+Desenvolvimento e Planejamento de WebSites variados, desde sistemas de ADM a SPA’s Responsivos e HotSites, consumo de APIS ou configuração dinâmica em arquivos JSON, foco em cumprir prazos curtos e um planejamento assertivo. O deploy das tarefas era feito com FTP.
+
+### Tarefas:
+- Planejamento das tarefas (Kanban)
+- Desenvolvimento de Sistemas de Admin
+- Desenvolvimento de Produtos (SPA)
+- Desenvolvimento de HotSites
+- Desenvolvimento de email marketing
+- CrossBrowser (IE7, IE8) :)
+
+### Tecnologias:
+- HTML, HTML5
+- CSS, CSS3, LESS, SASS
+- Javascript, jQuery, AngularJS, GreenSock
+- Grunt
+- Bower
+- Ruby, Ruby on Rails, PHP
+- WordPress
+- Bootstrap
+
+### Ferramentas:
+- SublimeText (codificação)
+- Photoshop (recorte de layout)
+- CodeBase (versionamento de código)
+- BaseCamp GIT (gerenciamento de projeto)
+- FileZilla (FTP)
+
+## ViajaNet | 10/2011 - 06/2012
+
+### Segmento da Empresa:
+E-Commerce de passagem aérea
+
+### Cargo:
+Desenvolvedor Front-End
+
+### Descrição:
+Desenvolvimento de sites para campanhas sazonais e sustententação do site principal e parceiros (YahooViagens, SaraivaViagens, ComprafacilViagens). o deploy das tarefas desenvolvidas era feito com FTP ou utilizando o CMS para o site principal.
+
+### Tarefas:
+- Desenvolvimento de HotSites
+- Desenvolvimento de email marketing
+- CrossBrowser
+
+### Tecnologias:
+- HTML, HTML5
+- CSS, CSS3
+- Javascript, jQuery
+
+### Ferramentas:
+- Fireworks (recorte de layout)
+- DreamWeaver (codificação)
+- SublimeText (codificação)
+- FileZilla (FTP)
+
+# Formação
+
+## FIAP | 2013 – 2015
+Analise e Desenvolvimento de Sistemas | Tecnologia da Informação
+
+ 
+### 1º Ano
+- Algoritimos
+- Banco de Dados
+- Desenvolvimento de Sistemas Web
+- Engenharia de Software
+- Linguagem e Técnica de Programação
+
+### 2º Ano
+- Desenvolvimento de Aplicativos Móveis (Android, IOS)
+- Empreendedorismo
+- Plataforma Web e Arquitetura de Integração
+- Programação de Banco de Dados
+- Programação de Componentes Distribuídos
+- Projeto de Sistemas
+- Qualidade de Software e Governança de TI
+
+## WiseUP | 2018 – 2019
+Ensino de Inglês como Segundo Idioma
+
+### Theme of the Books:
+- Teamwork AND Leadership
+- Strategic Planning AND Entrepreneurship
+- Time Management AND Negotiation
+- Coaching AND Public Speaking
+- Conversation 
+
+### Levels:
+- Basic 1, 2, 3
+- Intermediate 1, 2, 3
+- Advanced 1, 2
+- Conversation
